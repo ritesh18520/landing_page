@@ -1,0 +1,109 @@
+#body{
+    background-color: black;
+}
+.nav{
+    margin: 40px;
+    display: flex;
+    
+    
+}
+#navbaar{
+    color: white;
+    padding-top: 20px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} 
+#dropdwanmain{
+    background: none !important;
+    border: none;
+    padding : 30px;
+    margin-left: 5px;
+
+}
+#watching{
+    text-decoration: none;
+    color: white;
+    padding : 30px;
+    margin-left: 10px;
+}
+#spana{
+    text-decoration: none;
+    text-align: right;
+    color: white;
+    margin-left: 13%;
+     margin-top: 30px;    
+     padding-left: 15px;
+
+    /* margin-bottom: 10px; */
+}
+#spanb{
+    text-decoration: none;
+    text-align: right;
+    color: white;
+    margin-left: 2%;
+    padding-left: 5px;
+ margin-top: 30px;
+}
+#jion{
+    background-color: black;
+    color: white;
+    height: 40px; 
+    border: 2px solid white;
+    border-radius: 2px;
+    margin-top: 20px;
+    margin-left: 15px;
+    width: 80px;
+
+}
+#pluse{
+    background-color: black;
+    color: white;
+    height: 40px; 
+    border: 2px solid white;
+    border-radius: 2px;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 40px;
+
+}
+.section{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.header{
+    color: white;
+    font-size: 30px;
+}
+.headerone{
+    color: white;
+    font-size: 100px;
+}
+.buttons{
+    margin-left: 5%;
+}
+#buttonone{
+    text-decoration: none;
+    background: none;
+    color: white;
+    background-color: blue;
+    border: none;
+    width: 8%;
+    height: 40px;
+    border-radius: 10px;
+    
+
+}
+#buttontwo{
+    text-decoration: none;
+    background: none;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    height: 38px;
+}
+#img{
+    float: right;
+    float: top;
+    height: 50%;
+}
